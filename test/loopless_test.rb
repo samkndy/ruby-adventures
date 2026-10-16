@@ -1,3 +1,4 @@
+require_relative 'test_helper'
 require_relative 'movie_test_data'
 
 describe GoingLoopless do
