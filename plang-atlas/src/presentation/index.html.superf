@@ -22,7 +22,7 @@
       <% data.languages.values.sort_by(&:name).each do |lang| %>
         <li>
           <a href="/lang/<%= lang.id %>.html">
-            <%= lang.name %>
+            <%= lang.name + ": " + lang.year %>
           </a>
         </li>
       <% end %>

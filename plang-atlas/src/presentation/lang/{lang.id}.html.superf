@@ -17,7 +17,7 @@ end
     </nav>
 
     <main>
-      <h1><%= lang.name %></h1>
+      <h1><%= lang.name + ": " + lang.year %></h1>
 
       <% if lang.tags? %>
         <h2>Tags</h2>

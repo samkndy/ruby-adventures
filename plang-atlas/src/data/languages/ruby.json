@@ -1,10 +1,11 @@
 {
-  "name": "Ruby",
+  "name": "Ruby!",
   "tags": ["oop", "dyn_type"],
   "links": [
     {
       "title": "Official home page",
       "url": "https://www.ruby-lang.org"
     }
-  ]
+  ],
+  "year": "1995"
 }

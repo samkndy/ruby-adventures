@@ -1,0 +1,11 @@
+{
+  "name": "Haskell",
+  "tags": ["static_type", "functional"],
+  "links": [
+    {
+      "title": "Haskell.org Inc. website",
+      "url": "https://www.haskell.org/"
+    }
+  ],
+  "year": "1987"
+}
