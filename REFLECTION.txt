@@ -1,0 +1,6 @@
+Sam Kennedy - Ruby Adventures reflection
+
+- I did not pursue the flat_map solution to the build_credits problem.
+- My solutions in the loopless section are harder to read than Paul's. I forgot that I could space out each step in the data sorting and cleaning process.
+- The loopless section reminded me of Java Streams, but it also reminded me of R. Each puzzle felt like a code chunk in RStudio.
+- The loopless section was by far the hardest part of this homework for me. I found part 3 to be easy once I understood the structure of the code.
